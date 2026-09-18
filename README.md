@@ -22,3 +22,20 @@ An ordinary observer of humanity. I sometimes write code, document life, and exp
 - 🔭 日常任务：观察人类，理解世界
 - 💻 兴趣方向：代码、实用工具与新技术
 - 🧠 长期目标：保持好奇，拒绝无聊
+
+## Follow Me | 关注我
+
+- 𝕏 **X:** [@NotUncleShao](https://x.com/NotUncleShao)
+- ✉️ **Substack:** [@uncleshao](https://substack.com/@uncleshao)
+- 💬 **微信公众号:** NotUncleShao
+
+<details>
+<summary><strong>WeChat QR Code | 微信扫码关注</strong></summary>
+
+<br>
+
+<img src="assets/wechat-qrcode.jpg"
+     alt="NotUncleShao WeChat Official Account QR Code"
+     width="180">
+
+</details>
