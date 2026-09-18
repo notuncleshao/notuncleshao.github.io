@@ -27,7 +27,7 @@ An ordinary observer of humanity. I sometimes write code, document life, and exp
 
 - 𝕏 **X:** [@NotUncleShao](https://x.com/NotUncleShao)
 - ✉️ **Substack:** [@uncleshao](https://substack.com/@uncleshao)
-- 💬 **微信公众号:** NotUncleShao
+- 💬 **微信公众号:** 昂口邵
 
 <details>
 <summary><strong>WeChat QR Code | 微信扫码关注</strong></summary>
